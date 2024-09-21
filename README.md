@@ -4,7 +4,7 @@ Sure! Here's a `README.md` file for your GitHub project:
 
 # Estimating Bitcoin Volatility
 
-This repository contains three Jupyter notebooks derived from three (blog posts)[https://zaltarba.github.io/blog/BitcoinVolatility-1/] about estimating Bitcoin volatility. It also includes a Python script to fetch the required data necessary for the analyses.
+This repository contains three Jupyter notebooks derived from three [blog posts](https://zaltarba.github.io/blog/BitcoinVolatility-1/) about estimating Bitcoin volatility. It also includes a Python script to fetch the required data necessary for the analyses.
 
 ## Table of Contents
 
