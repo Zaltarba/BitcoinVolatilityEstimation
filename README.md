@@ -79,7 +79,7 @@ This script will download the necessary data and save it in the `data/` director
 
 ## Notebooks Overview
 
-### 1. Notebook 1: **[Title of Blog Post 1]**
+### 1. Notebook 1: **Estimating Bitcoin's Volatility Using EWMA**
 
 - **Description:** Explores [brief description of the method used in the first notebook].
 - **Contents:**
