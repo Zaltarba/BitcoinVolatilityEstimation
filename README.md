@@ -81,30 +81,22 @@ This script will download the necessary data and save it in the `data/` director
 
 ### 1. Notebook 1: **Estimating Bitcoin's Volatility Using EWMA**
 
-- **Description:** Explores [brief description of the method used in the first notebook].
+- **Description:** Explores how to estimate Bitcoin's realized volatility with the EWMA estimator
 - **Contents:**
   - Data preprocessing
   - Methodology explanation
   - Results and visualizations
-- **Purpose:** Understand the foundational aspects of Bitcoin volatility estimation using [specific method].
 
-### 2. Notebook 2: **[Title of Blog Post 2]**
+### 2. Notebook 2: **Estimating Bitcoin's Volatility using a GARCH Model**
 
-- **Description:** Delves into [brief description of the method used in the second notebook].
+- **Description:** Dive into the second part of our three-part series on computing Bitcoin's volatility with Binance data.
 - **Contents:**
-  - Advanced analytical techniques
-  - Comparative analysis
-  - Interpretation of findings
-- **Purpose:** Build upon the first notebook to provide deeper insights using [specific method].
-
-### 3. Notebook 3: **[Title of Blog Post 3]**
-
-- **Description:** Focuses on [brief description of the method used in the third notebook].
-- **Contents:**
-  - Innovative approaches
-  - Scenario analysis
-  - Conclusion and future work
-- **Purpose:** Introduce new perspectives and potential areas for further research.
+  - Data preprocessing
+  - Model Selection
+  - Model Interpretation
+  - Goodness of fit checks
+  - Estimation and Forecasting
+- **Purpose:** Build upon the first notebook to provide deeper insights on Bitcoin Volatility with this time a GARCH model framework.
 
 ## Dependencies
 
