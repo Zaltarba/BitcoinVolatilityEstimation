@@ -1,7 +1,3 @@
-Sure! Here's a `README.md` file for your GitHub project:
-
----
-
 # Estimating Bitcoin Volatility
 
 This repository contains three Jupyter notebooks derived from three [blog posts](https://zaltarba.github.io/blog/BitcoinVolatility-1/) about estimating Bitcoin volatility. It also includes a Python script to fetch the required data necessary for the analyses.
@@ -118,3 +114,4 @@ Contributions are welcome! If you have suggestions for improvements or find any 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
